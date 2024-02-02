@@ -8,8 +8,9 @@ This repository is the final project for the 'SQL - MySQL for Data Analytics and
 
 # Objective:
 The goal of the employee database analysis is to determine how big of a role gender plays in our company. 
-  - We are going to look at the male to female employees per year. 
+  - The comparison of male to female employees per year. 
   - The number of managers for each gender per department.
   - The average annual employee salary compared to each gender.
   - The average employee salary per department and how it compares to each gender.
-![alt text] (https://github.com/andrewbrannon/employee_database_analysis/blob/main/Employee%20Database%20Dashboard.png?raw=true)
+
+![alt text](https://github.com/andrewbrannon/employee_database_analysis/blob/main/Employee%20Database%20Dashboard.png?raw=true)
