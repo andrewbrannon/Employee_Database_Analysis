@@ -12,3 +12,4 @@ The goal of the employee database analysis is to determine how big of a role gen
   - The number of managers for each gender per department.
   - The average annual employee salary compared to each gender.
   - The average employee salary per department and how it compares to each gender.
+![alt text] (https://github.com/andrewbrannon/employee_database_analysis/blob/main/Employee%20Database%20Dashboard.png?raw=true)
